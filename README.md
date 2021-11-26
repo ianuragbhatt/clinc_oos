@@ -1,11 +1,14 @@
 # datascience-jupyter-notebooks
 
 ## Overview
-* Following notebooks have different techniques to do sentiment analysis in SST-2
+* Following notebooks have different techniques used to do sentiment analysis in SST-2
+
+## Dataset 
+* This dataset is from Stanford and downloaded from [GLUE Benchmark](https://dl.fbaipublicfiles.com/glue/data/SST-2.zip)
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [ktrain_deployment_text_classification.ipynb](https://github.com/ianuragbhatt/ipython-jupyter-notebooks/blob/master/ktrain/ktrain_deployment_text_classification.ipynb) | Learn basic of ktrain for text classification and how to save the model and use it for deployment. |
+| [RNN+CNN+Glove_SA_SST_2.ipynb](https://github.com/ianuragbhatt/sentiment-analysis-sst-2/blob/main/RNN%2BCNN%2BGlove_SA_SST_2.ipynb) | RNN+CNN+Bidirectional GRU with Glove embeddings and keras tokenizer. |
 
 ## contributing
 
