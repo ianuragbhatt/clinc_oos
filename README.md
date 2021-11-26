@@ -1,4 +1,4 @@
-# datascience-jupyter-notebooks
+# Sentiment Analysis of Stanford Sentiment Treebank-2
 
 ## Overview
 * Following notebooks have different techniques used to do sentiment analysis in SST-2
