@@ -1,14 +1,18 @@
-# Sentiment Analysis of Stanford Sentiment Treebank-2
+# [GLUE benchmark](https://gluebenchmark.com/)
 
 ## Overview
-* Following notebooks have different techniques used to do sentiment analysis in SST-2
+* These notebooks have task solutions which is given in GLUE Benchmark
 
-## Dataset 
+## Index
+* [SST-2](#SST-2)
+
+
+## SST-2
 * This dataset is from Stanford and downloaded from [GLUE Benchmark](https://dl.fbaipublicfiles.com/glue/data/SST-2.zip)
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [RNN+CNN+Glove_SA_SST_2.ipynb](https://github.com/ianuragbhatt/sentiment-analysis-sst-2/blob/main/RNN%2BCNN%2BGlove_SA_SST_2.ipynb) | RNN+CNN+Bidirectional GRU with Glove embeddings and keras tokenizer. |
+| [RNN+CNN+Glove_SA_SST_2.ipynb](https://github.com/ianuragbhatt/glue-benchmark/blob/main/sst-2/SA_SST_2_(RNN%2BCNN)_with_Glove.ipynb) | RNN+CNN+Bidirectional GRU with Glove embeddings and keras tokenizer. |
 
 ## contributing
 
