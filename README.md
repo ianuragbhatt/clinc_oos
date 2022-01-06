@@ -1,15 +1,10 @@
-# [GLUE benchmark](https://gluebenchmark.com/)
+# [CLINC_OSS](https://www.tensorflow.org/datasets/catalog/clinc_oos)
 
 ## Overview
-* These notebooks have task solutions which is given in GLUE Benchmark
+* These notebooks have different techniques which I used to do intent classification in clinc_oss dataset.
+* The data folder have dataset which is used to create these notebooks.
 
-## Index
-* [SST-2](#SST-2)
-
-
-## SST-2
-* This dataset is from Stanford and downloaded from [GLUE Benchmark](https://dl.fbaipublicfiles.com/glue/data/SST-2.zip)
-
+## Notebooks Description
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [RNN+CNN+Glove_SA_SST_2.ipynb](https://github.com/ianuragbhatt/glue-benchmark/blob/main/sst-2/SA_SST_2_(RNN%2BCNN)_with_Glove.ipynb) | RNN+CNN+Bidirectional GRU with Glove embeddings and keras tokenizer. |
