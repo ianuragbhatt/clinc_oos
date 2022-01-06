@@ -7,11 +7,13 @@
 ## Notebooks Description
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [RNN+CNN+Glove_SA_SST_2.ipynb](https://github.com/ianuragbhatt/glue-benchmark/blob/main/sst-2/SA_SST_2_(RNN%2BCNN)_with_Glove.ipynb) | RNN+CNN+Bidirectional GRU with Glove embeddings and keras tokenizer. |
+| [1_clinc_oos_RNN_CNN_Glove_no_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/1_clinc_oos_RNN_CNN_Glove_no_oos.ipynb) | RNN+CNN using Glove Embeddings with no oos intent.  |
+| [2_clinc_oos_RNN_CNN_Glove_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/2_clinc_oos_RNN_CNN_Glove_with_oos.ipynb) | RNN+CNN using Glove Embeddings with oos intent. |
+| [3_clinc_oss_BERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/3_clinc_oss_BERT_with_oos.ipynb) | RNN+CNN with BERT Embeddings with oos intent. |
 
 ## contributing
 
-Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/ianuragbhatt/sentiment-analysis-sst-2/issues).
+Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/ianuragbhatt/clinc_oos/issues).
 
 ## contact-info
 
