@@ -16,6 +16,7 @@
 | [1_clinc_oos_RNN_CNN_Glove_no_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/1_clinc_oos_RNN_CNN_Glove_no_oos.ipynb) | RNN+CNN using Glove Embeddings with no oos intent.  |
 | [2_clinc_oos_RNN_CNN_Glove_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/2_clinc_oos_RNN_CNN_Glove_with_oos.ipynb) | RNN+CNN using Glove Embeddings with oos intent. |
 | [3_clinc_oss_BERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/3_clinc_oss_BERT_with_oos.ipynb) | RNN+CNN with BERT Embeddings with oos intent. |
+| [4_clinc_oss_distilBERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/4_clinc_oss_distilBERT_with_oos.ipynb) | Huggingface DistilBERT model with oos intent. |
 
 ## Results
 
@@ -24,9 +25,10 @@ Below table have Accuracy Score(ACC), Adjusted Random Score(ARS), Normalized Mut
 
 | Notebooks| ACC  | ARS  | NMI  |
 |-----------|--------|--------|------------|
-| [1_clinc_oos_RNN_CNN_Glove_no_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/1_clinc_oos_RNN_CNN_Glove_no_oos.ipynb)  | 0  | 0  | 0  |
+| [1_clinc_oos_RNN_CNN_Glove_no_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/1_clinc_oos_RNN_CNN_Glove_no_oos.ipynb)  | 91.53  | 83.58  | 93.85  |
 | [2_clinc_oos_RNN_CNN_Glove_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/2_clinc_oos_RNN_CNN_Glove_with_oos.ipynb)  | 87.97  | 73.19  | 91.39  |
 | [3_clinc_oss_BERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/3_clinc_oss_BERT_with_oos.ipynb)  | 0 | 0  | 0  |
+| [4_clinc_oss_distilBERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/4_clinc_oss_distilBERT_with_oos.ipynb)  | 93.97 | 85.19  | 95.39  |
 
 ## Contribution
 
