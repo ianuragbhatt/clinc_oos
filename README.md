@@ -20,12 +20,13 @@
 ## Results
 
 Below table have Accuracy Score(ACC), Adjusted Random Score(ARS), Normalized Mutual Info(NMI) which I got on CLINC_OOS Dataset.
+> Note: **these results are on validation dataset not on test**
 
 | Notebooks| ACC  | ARS  | NMI  |
 |-----------|--------|--------|------------|
 | [1_clinc_oos_RNN_CNN_Glove_no_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/1_clinc_oos_RNN_CNN_Glove_no_oos.ipynb)  | 91.4  | 83.74  | 93.45  |
 | [2_clinc_oos_RNN_CNN_Glove_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/2_clinc_oos_RNN_CNN_Glove_with_oos.ipynb)  | 77.22  | 19.48  | 82.52  |
-| [3_clinc_oss_BERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/3_clinc_oss_BERT_with_oos.ipynb)  | 80.75  | 28.2  | 84.42  |
+| [3_clinc_oss_BERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/3_clinc_oss_BERT_with_oos.ipynb)  | 87.97  | 73.19  | 91.39  |
 
 ## Contribution
 
