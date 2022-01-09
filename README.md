@@ -24,9 +24,9 @@ Below table have Accuracy Score(ACC), Adjusted Random Score(ARS), Normalized Mut
 
 | Notebooks| ACC  | ARS  | NMI  |
 |-----------|--------|--------|------------|
-| [1_clinc_oos_RNN_CNN_Glove_no_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/1_clinc_oos_RNN_CNN_Glove_no_oos.ipynb)  | 91.4  | 83.74  | 93.45  |
-| [2_clinc_oos_RNN_CNN_Glove_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/2_clinc_oos_RNN_CNN_Glove_with_oos.ipynb)  | 77.22  | 19.48  | 82.52  |
-| [3_clinc_oss_BERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/3_clinc_oss_BERT_with_oos.ipynb)  | 87.97  | 73.19  | 91.39  |
+| [1_clinc_oos_RNN_CNN_Glove_no_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/1_clinc_oos_RNN_CNN_Glove_no_oos.ipynb)  | 0  | 0  | 0  |
+| [2_clinc_oos_RNN_CNN_Glove_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/2_clinc_oos_RNN_CNN_Glove_with_oos.ipynb)  | 87.97  | 73.19  | 91.39  |
+| [3_clinc_oss_BERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/3_clinc_oss_BERT_with_oos.ipynb)  | 0 | 0  | 0  |
 
 ## Contribution
 
