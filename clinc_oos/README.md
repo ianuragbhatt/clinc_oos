@@ -28,7 +28,7 @@ Below table have Accuracy Score(ACC), Adjusted Random Score(ARS), Normalized Mut
 | [1_clinc_oos_RNN_CNN_Glove_no_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/1_clinc_oos_RNN_CNN_Glove_no_oos.ipynb)  | 91.53  | 83.58  | 93.85  |
 | [2_clinc_oos_RNN_CNN_Glove_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/2_clinc_oos_RNN_CNN_Glove_with_oos.ipynb)  | 87.97  | 73.19  | 91.39  |
 | [3_clinc_oss_BERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/3_clinc_oss_BERT_with_oos.ipynb)  | 0 | 0  | 0  |
-| [4_clinc_oss_distilBERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/4_clinc_oss_distilBERT_with_oos.ipynb)  | 93.97 | 85.19  | 95.39  |
+| [4_clinc_oss_distilBERT_with_oos](https://github.com/ianuragbhatt/clinc_oos/blob/main/4_clinc_oss_distilBERT_with_oos.ipynb)  | 94 | 84.6 | 95.51  |
 
 ## Contribution
 
