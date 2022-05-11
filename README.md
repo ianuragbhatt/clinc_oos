@@ -67,7 +67,7 @@ Below table have Accuracy Score(ACC), Adjusted Random Score(ARS), Normalized Mut
 
 Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/ianuragbhatt/clinc_oos/issues).
 
-## contact-info
+## Contact-Info
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
