@@ -7,19 +7,21 @@
 
 ## Context
 
-* we have 77 labels 
+* In this banking77 dataset we have 77 intents or labels which we have to predict
 
 ## Notebooks Description
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [1_banking77_RNN_CNN_Glove.ipynb] | RNN+CNN using Glove Embeddings. |
+| [1_banking77_RNN_CNN_Glove.ipynb](https://github.com/ianuragbhatt/clinc_oos/blob/main/banking77/1_banking77_RNN_CNN_Glove.ipynb) | RNN+CNN using Glove Embeddings. |
+| [2_banking77_RNN_CNN_fastText.ipynb](https://github.com/ianuragbhatt/clinc_oos/blob/main/banking77/2_banking77_RNN_CNN_fastText.ipynb) | RNN+CNN using Glove and GRU. |
 
 ## Results
 
 | Notebooks| ACC  |
 |-----------|--------|
-| [1_banking77_RNN_CNN_Glove.ipynb]  | 87.95  |
+| [1_banking77_RNN_CNN_Glove.ipynb](https://github.com/ianuragbhatt/clinc_oos/blob/main/banking77/1_banking77_RNN_CNN_Glove.ipynb)  | 87.95  |
+| [2_banking77_RNN_CNN_fastText.ipynb](https://github.com/ianuragbhatt/clinc_oos/blob/main/banking77/2_banking77_RNN_CNN_fastText.ipynb) | 88.28 |
 
 ## Contribution
 
